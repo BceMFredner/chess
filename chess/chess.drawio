@@ -1,0 +1,618 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2049" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="xfTejKXB2hTD1kujO6xt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="-350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-3" target="xfTejKXB2hTD1kujO6xt-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-3" value="Получить координаты" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="-350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-4" target="xfTejKXB2hTD1kujO6xt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-6" value="Получить название фигуры" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-10" target="xfTejKXB2hTD1kujO6xt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-10" target="xfTejKXB2hTD1kujO6xt-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-12" value="Фигура - король?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-13" target="xfTejKXB2hTD1kujO6xt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-13" target="xfTejKXB2hTD1kujO6xt-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-14" value="Фигура - пешка?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-15" target="xfTejKXB2hTD1kujO6xt-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-15" target="xfTejKXB2hTD1kujO6xt-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-16" value="Фигура - ладья?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-17" target="xfTejKXB2hTD1kujO6xt-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="965" y="670" />
+              <mxPoint x="965" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-18" value="Фигура - слон&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-20" target="xfTejKXB2hTD1kujO6xt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-20" value="Фигура - королева&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="775" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-21" target="xfTejKXB2hTD1kujO6xt-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-22" value="Фигура - конь?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="895" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-28" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-29" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-30" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-31" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-32" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-42" target="xfTejKXB2hTD1kujO6xt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="-500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-44" value="Составить список букв для клеток" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="-485" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-64" target="xfTejKXB2hTD1kujO6xt-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-64" value="Узнать индекс буквы в данной начальной координате в списке&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-67" target="xfTejKXB2hTD1kujO6xt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-67" value="Узнать индекс буквы в данной конечной координате в списке&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-68" target="xfTejKXB2hTD1kujO6xt-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-68" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="130" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-70" target="xfTejKXB2hTD1kujO6xt-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-70" value="Разница между цифрой начальной координаты и конечной по модулю &amp;lt;=1?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-73" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-74" value="Вывести ответ: Нет, фигура не может так сходить" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-75" target="xfTejKXB2hTD1kujO6xt-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-75" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="-10" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-77" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-78" value="Разница между индексами букв начальной координаты и конечной по модулю &amp;lt;=1?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="15" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-81" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-82" value="Вывести ответ: Нет, фигура не может так сходить" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-84" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="-60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-86" value="Вывести ответ: Да, фигура так сходить может" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-88" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-94" target="xfTejKXB2hTD1kujO6xt-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-94" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="370" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-96" target="xfTejKXB2hTD1kujO6xt-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-96" value="Разница между цифрой конечной координаты и начальной =1?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-98" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-99" value="Вывести ответ: Нет, фигура не может так сходить" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-101" target="xfTejKXB2hTD1kujO6xt-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-101" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="230" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-102" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-104" value="индексы букв равны?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="255" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-106" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-107" value="Вывести ответ: Нет, фигура не может так сходить" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-108" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-110" value="Вывести ответ: Да, фигура так сходить может" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-111" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-114" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="510" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-116" target="xfTejKXB2hTD1kujO6xt-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-116" value="Индекс бувкы начальной координаты равна индексу буквы конечной?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1100" y="530" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-118" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1200" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-121" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1050" y="370" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-122" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-124" value="Цифры координат отличаются?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="395" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-128" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-129" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1080" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-130" value="Вывести ответ: Да, фигура так сходить может" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1080" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-131" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-133" target="xfTejKXB2hTD1kujO6xt-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-133">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-133" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-134" value="Цифры координат отличаются?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1290" y="535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-136" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-139" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1360" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-140" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-141" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1420" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-142" value="Вывести ответ: Нет, фигура не может так сходить" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1420" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-143" value="Вывести ответ: Да, фигура так сходить может" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1260" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-163" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="625" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-164" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1600" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-165" target="xfTejKXB2hTD1kujO6xt-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-165" value="Получить разницу между индексов букв конечной и начальной координат по модулю" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1600" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-166" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1750" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-167" target="xfTejKXB2hTD1kujO6xt-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-167" value="Получить разницу между цифрами конечной и начальной координат по модулю" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1750" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-169" target="xfTejKXB2hTD1kujO6xt-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-169" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1950" y="710" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-171" target="xfTejKXB2hTD1kujO6xt-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-171" value="Модуль разницы индексов равен модулю разницы цифр?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1980" y="730" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-172" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2140" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-173" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1960" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-176" value="Вывести ответ: Да, фигура может так сходить" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1960" y="615" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-177" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%92%D1%8B%D0%B2%D0%B5%D1%81%D1%82%D0%B8%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%3A%20%D0%9D%D0%B5%D1%82%2C%20%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%20%D0%BD%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%D1%82%20%D1%82%D0%B0%D0%BA%20%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221420%22%20y%3D%22520%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2170" y="735" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-178" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1960" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-179" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2080" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-180" value="Вывести ответ: Нет, фигура не может так сходить" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2140" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xfTejKXB2hTD1kujO6xt-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2480" y="950" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-199" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="745" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-201" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2481" y="935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-203" target="xfTejKXB2hTD1kujO6xt-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-203" value="Получить разницу между индексов букв конечной и начальной координат по модулю" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2481" y="935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-204" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2631" y="935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-206" target="xfTejKXB2hTD1kujO6xt-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-206" value="Получить разницу между цифрами конечной и начальной координат по модулю" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2631" y="935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-208" target="xfTejKXB2hTD1kujO6xt-219">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3021" y="965" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-208" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2831" y="925" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-210" target="xfTejKXB2hTD1kujO6xt-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-210" value="Модуль разницы индексов равен модулю разницы цифр?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2861" y="945" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-212" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2841" y="815" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-213" value="Вывести ответ: Да, фигура может так сходить" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2841" y="830" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-215" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2841" y="885" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-216" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2961" y="975" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-219">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3231" y="975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-219" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3041" y="935" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-220" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-221" target="xfTejKXB2hTD1kujO6xt-223">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-221" value="Индекс бувкы начальной координаты равна индексу буквы конечной?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3071" y="955" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-222" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3171" y="935" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-223" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3021" y="795" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-224" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3041" y="895" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-226">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3111" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-226" value="Цифры координат отличаются?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3041" y="820" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-227" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3041" y="745" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-228" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3051" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-229" value="Вывести ответ: Да, фигура так сходить может" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3051" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-230" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-232" target="xfTejKXB2hTD1kujO6xt-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-232">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3391" y="975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-232" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3231" y="935" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-233" value="Цифры координат отличаются?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3261" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-234" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3231" y="1065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-235" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3331" y="935" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-236" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3231" y="1025" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-237" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3391" y="945" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-238" value="Вывести ответ: Нет, фигура не может так сходить" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3391" y="945" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-239" value="Вывести ответ: Да, фигура так сходить может" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3231" y="1065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-240" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-242" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="875" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-246" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-243" target="xfTejKXB2hTD1kujO6xt-245">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-243" value="Найти разницу индексов букв координат по модулю" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-244" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-248" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-245" target="xfTejKXB2hTD1kujO6xt-247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-245" value="Найти разницу цифр координат по модулю" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-250" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-247" target="xfTejKXB2hTD1kujO6xt-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-254" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-247" target="xfTejKXB2hTD1kujO6xt-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-247" value="разница индексов букв по модулю равна 2?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="870" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-249" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="875" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-251" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-268" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-252" target="xfTejKXB2hTD1kujO6xt-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-252" value="разница цифр по модулю равна 1?," style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1060" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-253" target="xfTejKXB2hTD1kujO6xt-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-262" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-253" target="xfTejKXB2hTD1kujO6xt-261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-253" value="разница цифр по модулю равна 2?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="995" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-279" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-255" target="xfTejKXB2hTD1kujO6xt-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-255" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="1000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-272" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xfTejKXB2hTD1kujO6xt-256" target="xfTejKXB2hTD1kujO6xt-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-256" value="разница индексов букв по модулю равна 1?," style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="1025" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-260" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-261" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-265" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-266" value="Вывести ответ: Нет, фигура так сходить не может" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-267" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1210" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-269" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1140" y="875" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-270" value="Вывести ответ: Да, фигура может так сходить" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1210" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-271" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1050" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-273" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="995" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-274" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1050" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-275" value="Вывести ответ: Да, фигура может так сходить" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1050" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-276" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="1138" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-277" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="1109" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfTejKXB2hTD1kujO6xt-278" value="Вывести ответ: Нет, фигура так сходить не может" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="1139" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
