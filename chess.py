@@ -19,9 +19,7 @@ def logic(inp_name,x1,x2,y1,y2):
 def in_out(inp_cord,inp_name):
     letter_list = "ABCDEFGH"
     inp_num_1, inp_num_2 = (inp_cord.split("-"))
-    cord = [int(inp_num_1[1]), int(inp_num_2[1]), int(letter_list.find(str(inp_num_1[0]))),
-    int(letter_list.find(str(inp_num_2[0])))]
-    x1, x2, y1, y2 = cord[0], cord[1], cord[2], cord[3]
+    x1, x2, y1, y2 = int(inp_num_1[1]), int(inp_num_2[1]), int(letter_list.find(str(inp_num_1[0]))), int(letter_list.find(str(inp_num_2[0])))
     if logic(inp_name, x1, x2, y1, y2) == 1:
         return 1
     else:
